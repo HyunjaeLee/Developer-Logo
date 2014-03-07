@@ -1,7 +1,8 @@
 Developer Logo Project
 ---
-    -Developer-
+-Developer-
 
 -The Neulmo Circle-
+
 ---
 Hyunjae,Lee (guswoqkrtk)
