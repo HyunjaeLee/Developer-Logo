@@ -1,3 +1,3 @@
 Developer Circle Logo Project
 ===
-** by Hyunjae Lee
+__by Hyunjae Lee__
